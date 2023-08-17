@@ -14,6 +14,15 @@ Before you begin, please ensure the following prerequisites are completed:
 - [Install AWS CLI on MacOS](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html)
 - [Install AWS CLI on Windows](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html)
 
+### Install Git CLI
+
+- [Install Git CLI on MacOS](https://git-scm.com/download/mac)
+
+** Mac Users ** You can also use Homebrew! 
+`brew install git`
+
+- [Install Git CLI on Windows](https://git-scm.com/download/win)
+
 ## Getting Started
 
 Follow these steps to get started with the tutorials:
