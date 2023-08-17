@@ -8,6 +8,4 @@ Before executing the scripts in this directory ensure the following:
 
 ** NOTE ** The above does not reflect AWS best practices.
 
-2. Terraform is working on your system
-
-`terraform -v`
+2. Terraform is working on your system `terraform -v`
