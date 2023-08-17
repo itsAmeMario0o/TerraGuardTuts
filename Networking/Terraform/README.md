@@ -15,6 +15,9 @@ Before executing the scripts in this directory ensure the following:
     Paste the following:
 
     `region = "us-east-1"`
+
     `main_vpc_cidr = "10.0.0.0/16"`
+
     `public_subnets = "10.0.10.0/24"`
+    
     `private_subnets = "10.0.100.0/24"`
