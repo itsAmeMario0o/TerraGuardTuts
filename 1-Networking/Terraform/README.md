@@ -21,3 +21,5 @@ Before executing the scripts in this directory ensure the following:
     `public_subnets = "10.0.10.0/24"`
 
     `private_subnets = "10.0.100.0/24"`
+
+    `project_name = "CiscoSecure"`

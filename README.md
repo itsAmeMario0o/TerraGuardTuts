@@ -8,6 +8,7 @@ This repository is designed to help network security engineers learn cloud secur
 Before you begin, please ensure the following prerequisites are completed:
 
 - [AWS Account Setup](https://aws.amazon.com/)
+- [Google Cloud Console](https://console.cloud.google.com/)
 - [Install Terraform on MacOS](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started)
 - [Install Terraform on Windows](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started)
 - [Install Visual Studio Code](https://code.visualstudio.com/download)
