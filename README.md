@@ -21,11 +21,13 @@ Before you begin, please ensure the following prerequisites are completed:
 - [Install Git CLI on MacOS](https://git-scm.com/download/mac)
 
 ** Mac Users ** You can also use Homebrew! 
+
 `brew install git`
 
 - [Install Git CLI on Windows](https://git-scm.com/download/win)
 
 ** Win Users ** You can also use Chocolatey!
+
 `choco install git.install` 
 
 ## Getting Started
