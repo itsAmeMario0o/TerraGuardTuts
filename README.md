@@ -14,6 +14,7 @@ Before you begin, please ensure the following prerequisites are completed:
 - [Install Visual Studio Code](https://code.visualstudio.com/download)
 - [Install AWS CLI on MacOS](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html)
 - [Install AWS CLI on Windows](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html)
+- [Install gcloud SDK](https://cloud.google.com/sdk/docs/install)
 
 ### Install Git CLI
 
@@ -23,6 +24,9 @@ Before you begin, please ensure the following prerequisites are completed:
 `brew install git`
 
 - [Install Git CLI on Windows](https://git-scm.com/download/win)
+
+** Win Users ** You can also use Chocolatey!
+`choco install git.install` 
 
 ## Getting Started
 
